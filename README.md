@@ -5,7 +5,6 @@
   Em busca de aprendizado, experiência e crescimento profissional 🚀
 </p>
 
-<hr>
 
 <h2>📌 Sobre Mim</h2>
 
@@ -20,7 +19,6 @@ Tenho interesse em tecnologia, programação, infraestrutura de TI e desenvolvim
 Busco constantemente adquirir novos conhecimentos, desenvolver minhas habilidades técnicas e ganhar experiência prática através de projetos e desafios.
 </p>
 
-<hr>
 
 <h2>🎯 Objetivos</h2>
 
@@ -31,7 +29,6 @@ Busco constantemente adquirir novos conhecimentos, desenvolver minhas habilidade
   <li>Compartilhar conhecimento e colaborar com a comunidade.</li>
 </ul>
 
-<hr>
 
 <h2>🛠️ Tecnologias e Conhecimentos</h2>
 
@@ -48,7 +45,6 @@ Busco constantemente adquirir novos conhecimentos, desenvolver minhas habilidade
   <li>Git & GitHub</li>
 </ul>
 
-<hr>
 
 <h2>📚 Formação</h2>
 
@@ -57,7 +53,6 @@ Busco constantemente adquirir novos conhecimentos, desenvolver minhas habilidade
   <li>🎓 Curso Técnico em Análise e Desenvolvimento de Sistemas - SENAI</li>
 </ul>
 
-<hr>
 
 <h2>💼 Oportunidades</h2>
 
@@ -76,7 +71,6 @@ Atualmente busco oportunidades que contribuam para meu desenvolvimento pessoal e
 Meu objetivo é adquirir experiência, desenvolver novas competências e construir uma carreira sólida no setor de tecnologia, sempre buscando aprendizado contínuo e crescimento profissional.
 </p>
 
-<hr>
 
 <h2>📈 Estatísticas GitHub</h2>
 
@@ -84,7 +78,6 @@ Meu objetivo é adquirir experiência, desenvolver novas competências e constru
  <img width="386" height="48" alt="image" src="https://github.com/user-attachments/assets/42e09755-bc77-43d9-88b4-8b80435f8ffd" />
 </p>
 
-<hr>
 
 <h2>🚀 Possuo qualidades como: Proatividade, trabalho em equipe, gestão de tempo, autonomia, criatividade, entre outros. </h2>
 
@@ -93,7 +86,6 @@ Meu objetivo é adquirir experiência, desenvolver novas competências e constru
 
 <!-- Estou aprendendo: Python, Linux Ubuntu, Engenharia de Software, Arduino, C++, Windows CMD. -->
 
-<hr>
 
 <h2>🌎 Brasil </h2>
 
@@ -101,7 +93,6 @@ Meu objetivo é adquirir experiência, desenvolver novas competências e constru
 📍 Lorena, Sp 
 </p>
 
-<hr>
 
 <h2>📫 Contato</h2>
 
