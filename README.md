@@ -90,7 +90,6 @@ Meu objetivo é adquirir experiência, desenvolver novas competências e constru
 <h2>🚀 Possuo qualidades como: Proatividade, trabalho em equipe, gestão de tempo, autonomia, criatividade, entre outros. </h2>
 
 <p>
-Em breve...
 </p>
 
 <!-- Estou aprendendo: Python, Linux Ubuntu, Engenharia de Software, Arduino, C++, Windows CMD. -->
