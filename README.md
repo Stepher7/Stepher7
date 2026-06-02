@@ -81,8 +81,7 @@ Meu objetivo é adquirir experiência, desenvolver novas competências e constru
 <h2>📈 Estatísticas GitHub</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+ <img width="386" height="48" alt="image" src="https://github.com/user-attachments/assets/42e09755-bc77-43d9-88b4-8b80435f8ffd" />
 </p>
 
 <hr>
