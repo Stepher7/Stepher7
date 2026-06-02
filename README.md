@@ -30,22 +30,6 @@ Busco constantemente adquirir novos conhecimentos, desenvolver minhas habilidade
 </ul>
 
 
-<h2>🛠️ Tecnologias e Conhecimentos</h2>
-
-<p>
-🚧 Em desenvolvimento...
-</p>
-
-<!-- Adicione suas tecnologias aqui -->
-
-<ul>
-  <li>CSS</li>
-  <li>Python</li>
-  <li>C++</li>
-  <li>Git & GitHub</li>
-</ul>
-
-
 <h2>📚 Formação</h2>
 
 <ul>
