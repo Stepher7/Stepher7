@@ -103,8 +103,6 @@ Meu objetivo é adquirir experiência, desenvolver novas competências e constru
 
 </p>
 
-<hr>
-
 <h3 align="center">
-✨ Sempre aprendendo, evoluindo e construindo novas soluções. ✨
+🧬 Sempre aprendendo, evoluindo e construindo novas soluções. 
 </h3>
