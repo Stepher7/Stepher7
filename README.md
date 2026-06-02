@@ -61,15 +61,11 @@ Atualmente busco oportunidades que contribuam para meu desenvolvimento pessoal e
 </p>
 
 <ul>
-  <li>📚 Programas de estudo e capacitação na área de tecnologia.</li>
+  <li>📚 Programas de estudo e capacitação.</li>
   <li>🛠️ Experiências práticas que permitam aplicar e expandir meus conhecimentos.</li>
-  <li>🤝 Participação em projetos colaborativos e desafios tecnológicos.</li>
-  <li>💼 Oportunidades de estágio, jovem aprendiz e primeiro emprego na área de Tecnologia da Informação.</li>
+  <li>🤝 Participação em projetos colaborativos e desafios.</li>
+  <li>💼 Oportunidades de estágio, jovem aprendiz e primeiro emprego.</li>
 </ul>
-
-<p>
-Meu objetivo é adquirir experiência, desenvolver novas competências e construir uma carreira sólida no setor de tecnologia, sempre buscando aprendizado contínuo e crescimento profissional.
-</p>
 
 
 <h2>📈 Estatísticas GitHub</h2>
@@ -83,8 +79,6 @@ Meu objetivo é adquirir experiência, desenvolver novas competências e constru
 
 <p>
 </p>
-
-<!-- Estou aprendendo: Python, Linux Ubuntu, Engenharia de Software, Arduino, C++, Windows CMD. -->
 
 
 <h2>🌎 Brasil </h2>
@@ -104,5 +98,5 @@ Meu objetivo é adquirir experiência, desenvolver novas competências e constru
 </p>
 
 <h3 align="center">
-🧬 Sempre aprendendo, evoluindo e construindo novas soluções. 
+🧬 Sempre aprendendo, evoluindo e construindo novas soluções. 🧬
 </h3>
