@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Stepher Ballerini Cavalcante 👋</h1>
+<h1 align="center">Olá, eu sou Stepher Cavalcante 👋</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas 💻 <br>
@@ -9,7 +9,7 @@
 <h2>📌 Sobre Mim</h2>
 
 <p>
-Meu nome é <strong>Stepher Ballerini Cavalcante</strong>, nascido em 2010.
+Meu nome é <strong>Stepher Cavalcante</strong>, nascido em 2010.
 Atualmente estudo no <strong>SESI</strong> e curso
 <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>SENAI</strong>.
 </p>
