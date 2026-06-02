@@ -42,9 +42,7 @@ Busco constantemente adquirir novos conhecimentos, desenvolver minhas habilidade
 <!-- Adicione suas tecnologias aqui -->
 
 <ul>
-  <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript</li>
   <li>Python</li>
   <li>C++</li>
   <li>Git & GitHub</li>
