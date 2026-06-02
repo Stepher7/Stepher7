@@ -76,7 +76,9 @@ Atualmente busco oportunidades que contribuam para meu desenvolvimento pessoal e
 
 <p>
 📧 ballerinicavalcantestepher@portalsesisp.org.br
+  
 💼 https://www.instagram.com/_stepher14/
+
 💼 https://www.linkedin.com/in/stepher-ballerini-2a1648410  
 
 </p>
