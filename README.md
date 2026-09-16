@@ -1,12 +1,12 @@
-<h1 align="center">Olá, eu sou Stepher Cavalcante 👋</h1>
+<h1 align="center">Olá, eu sou Stepher Cavalcante </h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas 💻 <br>
-  Em busca de aprendizado, experiência e crescimento profissional 🚀
+  Estudante de Análise e Desenvolvimento de Sistemas <br>
+  Em busca de aprendizado, experiência e crescimento profissional 
 </p>
 
 
-<h2>📌 Sobre Mim</h2>
+<h2> Sobre Mim</h2>
 
 <p>
 Meu nome é <strong>Stepher Cavalcante</strong>, nascido em 2010.
@@ -20,7 +20,7 @@ Busco constantemente adquirir novos conhecimentos, desenvolver minhas habilidade
 </p>
 
 
-<h2>🎯 Objetivos</h2>
+<h2> Objetivos</h2>
 
 <ul>
   <li>Aprender novas tecnologias e ferramentas.</li>
@@ -30,59 +30,59 @@ Busco constantemente adquirir novos conhecimentos, desenvolver minhas habilidade
 </ul>
 
 
-<h2>📚 Formação</h2>
+<h2> Formação</h2>
 
 <ul>
-  <li>🏫 SESI</li>
-  <li>🎓 Curso Técnico em Análise e Desenvolvimento de Sistemas - SENAI</li>
+  <li> SESI</li>
+  <li> Curso Técnico em Análise e Desenvolvimento de Sistemas - SENAI</li>
 </ul>
 
 
-<h2>💼 Oportunidades</h2>
+<h2> Oportunidades</h2>
 
 <p>
 Atualmente busco oportunidades que contribuam para meu desenvolvimento pessoal e profissional, incluindo:
 </p>
 
 <ul>
-  <li>📚 Programas de estudo e capacitação.</li>
-  <li>🛠️ Experiências práticas que permitam aplicar e expandir meus conhecimentos.</li>
-  <li>🤝 Participação em projetos colaborativos e desafios.</li>
-  <li>💼 Oportunidades de estágio, jovem aprendiz e primeiro emprego.</li>
+  <li> Programas de estudo e capacitação.</li>
+  <li> Experiências práticas que permitam aplicar e expandir meus conhecimentos.</li>
+  <li> Participação em projetos colaborativos e desafios.</li>
+  <li> Oportunidades de estágio, jovem aprendiz e primeiro emprego.</li>
 </ul>
 
 
-<h2>📈 Estatísticas GitHub</h2>
+<h2> Estatísticas GitHub</h2>
 
 <p align="center">
  <img width="386" height="48" alt="image" src="https://github.com/user-attachments/assets/42e09755-bc77-43d9-88b4-8b80435f8ffd" />
 </p>
 
 
-<h2>🚀 Possuo qualidades como: Proatividade, trabalho em equipe, gestão de tempo, autonomia, criatividade, entre outros. </h2>
+<h2> Possuo qualidades como: Proatividade, trabalho em equipe, gestão de tempo, autonomia, criatividade, entre outros. </h2>
 
 <p>
 </p>
 
 
-<h2>🌎 Brasil </h2>
+<h2> Brasil </h2>
 
 <p>
-📍 Lorena, Sp 
+ Lorena, Sp 
 </p>
 
 
-<h2>📫 Contato</h2>
+<h2> Contato</h2>
 
 <p>
-📧 ballerinicavalcantestepher@portalsesisp.org.br
+ ballerinicavalcantestepher@portalsesisp.org.br
   
-💼 https://www.instagram.com/_stepher14/
+ https://www.instagram.com/_stepher14/
 
-💼 https://www.linkedin.com/in/stepher-ballerini-2a1648410  
+ https://www.linkedin.com/in/stepher-ballerini-2a1648410  
 
 </p>
 
 <h3 align="center">
-🧬 Sempre aprendendo, evoluindo e construindo novas soluções. 🧬
+ Sempre aprendendo, evoluindo e construindo novas soluções. 🧬
 </h3>
