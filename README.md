@@ -83,6 +83,3 @@ Atualmente busco oportunidades que contribuam para meu desenvolvimento pessoal e
 
 </p>
 
-<h3 align="center">
- Sempre aprendendo, evoluindo e construindo novas soluções. 🧬
-</h3>
